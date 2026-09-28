@@ -1,2 +1,1 @@
-# runtime-components
-My repository for runtime components
+This is my repository for my basic runtime components. Kiera Bruton, Purdue University.
